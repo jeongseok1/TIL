@@ -23,10 +23,6 @@ cwd에서 시작되는 경로
 
 
 
-\temp\test_a  --> 절대 경로
-
-
-
 cwd: c:\temp\ttt 가정하면
 
 test_a  ---> 상대경로
@@ -36,6 +32,8 @@ c:\temp\ttt\test_a
 
 
 최상위폴더(\, 루트 디렉토리)부터 시작하면 절대경로
+
+\temp\test_a  --> 절대 경로
 
 
 

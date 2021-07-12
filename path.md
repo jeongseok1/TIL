@@ -9,7 +9,7 @@ tree 구조 == 계층 구조
     하위 == 자식
 ```
 
-current working directory(cwd)
+current working directory(cwd) : 현재 워킹 디렉토리
 
 home directory : 로그인 했을 때 가지는 디폴트 워킹 디렉토리
 
@@ -23,11 +23,11 @@ cwd에서 시작되는 경로
 
 
 
-cwd: c:\temp\ttt 가정하면
+> cwd --> c:\temp\ttt 가정하면
 
-test_a  ---> 상대경로
+>  test_a  ---> 상대경로
 
-c:\temp\ttt\test_a
+>  c:\temp\ttt\test_a
 
 
 
